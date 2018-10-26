@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8e78a5e-8e17-4457-8be5-e0e46dfa6a60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/src/main/java/com/example/demo/OldBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/src/main/java/com/example/demo/OldBoyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomDemo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/.idea/libraries/JPA_2_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/com/sx/homework1/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/com/sx/homework1/TimeDiffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/com/sx/homework2/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/com/sx/homework3/WriteAndReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/com/sx/homework3/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/com/sx/homework4/AnnotationMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/com/sx/homework4/AnnotationUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/com/sx/homework4/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework/src/com/sx/homework4/checkUsername.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/libraries/JPA_2_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/out/production/io/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/out/production/io/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/out/production/io/TestObjSerializeAndDeserialize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/out/production/io/WriteAndReadFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/out/production/io/WriteFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/out/production/io/com/suixing/day03/Test01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/out/production/io/com/suixing/day03/TimeDiffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/TestObjSerializeAndDeserialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/WriteAndReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/com/suixing/day03/Single1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/com/suixing/day03/Single2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/com/suixing/day03/Single3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/com/suixing/day03/Single4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/com/suixing/day03/Single5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/com/suixing/day03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/com/suixing/day03/TimeDiffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../io/src/com/sx/homework/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileContent/annotation-processors.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/spring_boot_main_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jdt_ecj_3_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/spring-boot_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/spring-boot_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/basic/springboot/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/basic/springboot/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/basic/springboot/DemoTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/classes/com/basic/springboot/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/classes/com/basic/springboot/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/hibernate-validator-5.3.6.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/jackson-annotations-2.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/jackson-core-2.8.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/jackson-databind-2.8.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/jboss-logging-3.3.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/jcl-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/jul-to-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/log4j-over-slf4j-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/logback-classic-1.1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/logback-core-1.1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/snakeyaml-1.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-aop-4.3.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-beans-4.3.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-boot-1.5.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-boot-autoconfigure-1.5.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-boot-starter-1.5.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-boot-starter-logging-1.5.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-boot-starter-tomcat-1.5.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-boot-starter-web-1.5.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-context-4.3.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-core-4.3.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-expression-4.3.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-web-4.3.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/spring-webmvc-4.3.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/tomcat-annotations-api-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/tomcat-embed-core-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/tomcat-embed-el-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/tomcat-embed-websocket-8.5.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/BOOT-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/ExecutableArchiveLauncher$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/ExecutableArchiveLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/JarLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/LaunchedURLClassLoader$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/LaunchedURLClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/Launcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/MainMethodRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/PropertiesLauncher$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/PropertiesLauncher$ArchiveEntryFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/PropertiesLauncher$PrefixMatchingArchiveFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/PropertiesLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/WarLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/Archive$Entry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/Archive$EntryFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/Archive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/ExplodedArchive$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/ExplodedArchive$FileEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/ExplodedArchive$FileEntryIterator$EntryComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/ExplodedArchive$FileEntryIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/ExplodedArchive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/JarFileArchive$EntryIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/JarFileArchive$JarFileEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/archive/JarFileArchive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/data/ByteArrayRandomAccessData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/data/RandomAccessData$ResourceAccess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/data/RandomAccessData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/data/RandomAccessDataFile$DataInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/data/RandomAccessDataFile$FilePool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/data/RandomAccessDataFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/AsciiBytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/Bytes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/CentralDirectoryEndRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/CentralDirectoryFileHeader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/CentralDirectoryParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/CentralDirectoryVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/FileHeader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/Handler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarEntryFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarFile$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarFile$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarFile$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarFile$JarFileType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarFileEntries$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarFileEntries$EntryIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarFileEntries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarURLConnection$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarURLConnection$JarEntryName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/JarURLConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/jar/ZipInflaterInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-boot-0.0.1-SNAPSHOT/org/springframework/boot/loader/util/SystemPropertyUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.basic.springboot.DemoTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.basic.springboot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.basic.springboot.DemoTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/basic/springboot/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/basic/springboot/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/com/basic/springboot/DemoTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/springboot/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/springboot/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/basic/springboot/DemoTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/.idea/libraries/JPA_2_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/out/production/suixingpay/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/out/production/suixingpay/Hellow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/out/production/suixingpay/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/src/Hellow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/src/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suixingpay/suixingpay.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/spring_boot$Application.ic" NAME="Application Coverage Results" MODIFIED="1540467937309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/spring_boot$spring_boot__bootRepackage_.ic" NAME="spring-boot [bootRepackage] Coverage Results" MODIFIED="1540468242681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="213" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-214395261">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="gradle" value="10" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="5" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="2" />
+          <entry key="properties" value="5" />
+          <entry key="tld" value="1" />
+          <entry key="yml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Git file" value="1" />
+          <entry key="Groovy" value="10" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="5" />
+          <entry key="JSP" value="2" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="gradle" value="128" />
+          <entry key="java" value="495" />
+          <entry key="jsp" value="32" />
+          <entry key="txt" value="17" />
+          <entry key="yml" value="107" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="128" />
+          <entry key="JAVA" value="495" />
+          <entry key="JSP" value="32" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="YAML" value="107" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/springboot/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="test" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Dong_xiuyan\.gradle\wrapper\dists\gradle-4.8.1-bin\e8p42vx1m7a3mz9ydmjagn6wn\gradle-4.8.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="spring-boot" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spring-boot" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'spring-boot'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'spring-boot'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'spring-boot'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'spring-boot'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'spring-boot'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'spring-boot'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'spring-boot'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'spring-boot'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'spring-boot'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'spring-boot'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6161845066814" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2487719503" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1613248354" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="184909927" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/eb1d7232a90469dd12946582bb9a99b84aa632c/spring-boot-gradle-plugin-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/61791907844a11bcea7eca8fb8ca853c9a95421a/spring-boot-loader-tools-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/7bb9ab86474b9ff2e7aa8ea3609878a1750e3f90/dependency-management-plugin-1.0.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/fc9cf4f489515d429b005ee86ef105a704a94016/spring-core-4.3.13.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/4f3d6d5164784c51959db58bfc438c7ee44e0c5c/spring-boot-gradle-plugin-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/5ce69eaa5709ccff5b4db4a85abfae16affa107a/spring-boot-loader-tools-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/c7fc988680e19cef9bf91de0c39b891e4c8dca2d/dependency-management-plugin-1.0.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/eea18d7f4d01f1baa1b6728b678b5a6fe23c61f6/spring-core-4.3.13.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="spring-boot" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-base-services-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-base-services-groovy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-build-cache-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-build-option-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-cli-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-core-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-core-api-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-docs-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-installation-beacon-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-jvm-services-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-launcher-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-logging-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-messaging-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-model-core-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-model-groovy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-persistent-cache-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-process-services-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-resources-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-runtime-api-info-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-tooling-api-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/gradle-wrapper-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-announce-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-antlr-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-build-cache-http-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-build-comparison-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-build-init-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-code-quality-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-composite-builds-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-dependency-management-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-diagnostics-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-ear-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-ide-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-ide-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-ide-play-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-ivy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-jacoco-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-javascript-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-language-groovy-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-language-java-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-language-jvm-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-language-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-language-scala-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-maven-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-osgi-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-platform-base-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-platform-jvm-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-platform-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-platform-play-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-plugin-development-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-plugin-use-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-plugins-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-publish-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-reporting-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-resources-gcs-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-resources-http-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-resources-s3-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-resources-sftp-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-scala-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-signing-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-test-kit-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-testing-base-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-testing-junit-platform-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-testing-jvm-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-testing-native-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-tooling-api-builders-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-version-control-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/gradle-workers-4.8.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8.1-bin/e8p42vx1m7a3mz9ydmjagn6wn/gradle-4.8.1/lib/plugins/ivy-2.2.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/springboot/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/springboot/demo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/basic/springboot/DemoTests.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index..jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/springboot/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/springboot/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="79" />
+    <option name="y" value="12" />
+    <option name="width" value="1748" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="set back&#9;ACTION&#9;Images.SetBackgroundImage&#10;setbac&#9;ACTION&#9;Images.SetBackgroundImage&#10;set bac&#9;ACTION&#9;Images.SetBackgroundImage" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540542942088" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\公司\workspace\spring-boot\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="spring-boot [bootRepackage]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRepackage" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-boot [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-boot [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-boot [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="init" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="spring-boot [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.basic.springboot.Demo" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Gradle.spring-boot [init]" />
+      <item itemvalue="Gradle.spring-boot [build]" />
+      <item itemvalue="Gradle.spring-boot [jar]" />
+      <item itemvalue="Gradle.spring-boot [bootRepackage]" />
+      <item itemvalue="Gradle.spring-boot [bootRun]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.spring-boot [bootRun]" />
+        <item itemvalue="Gradle.spring-boot [bootRepackage]" />
+        <item itemvalue="Gradle.spring-boot [jar]" />
+        <item itemvalue="Gradle.spring-boot [build]" />
+        <item itemvalue="Gradle.spring-boot [init]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8e78a5e-8e17-4457-8be5-e0e46dfa6a60" name="Default Changelist" comment="" />
+      <created>1540455259207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540455259207</updated>
+      <workItem from="1540455263279" duration="2124000" />
+      <workItem from="1540457407900" duration="15636000" />
+      <workItem from="1540532805782" duration="2148000" />
+      <workItem from="1540537449271" duration="601000" />
+      <workItem from="1540538069634" duration="3359000" />
+      <workItem from="1540542019071" duration="923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DemoTests_contextLoads - 2018.10.25 at 17h 15m 44s.xml">
+      <configuration name="DemoTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24791000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.38709676" visible="true" weight="0.3009967" />
+      <window_info id="Structure" order="1" sideWeight="0.61290324" side_tool="true" visible="true" weight="0.3009967" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3280116" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.17507003" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39915967" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32946298" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32913166" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.86502177" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32946298" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32913166" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50208336" side_tool="true" weight="0.32956812" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" sideWeight="0.49791667" weight="0.32956812" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31096345" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3277311" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32913166" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50208336" side_tool="true" visible="true" weight="0.32956812" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" sideWeight="0.49791667" visible="true" weight="0.32956812" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/basic/springboot/DemoTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp.tld" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/springboot/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/springboot/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-boot_main:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|spring-boot_main|spring-boot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
